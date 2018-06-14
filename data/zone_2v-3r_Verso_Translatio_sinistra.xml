@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Documenti d'Amore</title>
+            <respStmt>
+               <resp>Responsabile della codifica</resp>
+               <persName>
+                  <forename>Giulia</forename>
+                  <surname>Barison</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+                <p/>
+            </publicationStmt>
+         <sourceDesc>
+                <p/>
+            </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+   <facsimile>
+      <surface>
+         <graphic url="http://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0016_fa_0002v-3r.jp2/full/full/0/default.jpg"/>
+         <zone points="209,130 243,128 253,333 305,330 306,381 216,378" xml:id="zone_2v-3r_Verso_Translatio_sinistra"/>
+      </surface>
+   </facsimile>
+
+   <text>
+      <body>
+         <div type="Translatio_sinistra">
+            <pb facs="#zone_2v-3r_Verso_Translatio_sinistra" xml:id="pb_2v-3r_Verso_Translatio_sinistra"/>
+            <pb ed="Egidi" n="15" xml:id="Egidi_translatio_15"/>
+            <ab xml:id="translatio_1_a"> <hi rend="italic"> ingesse<lb/>runt ¶ Alie <lb/> vero
+            <pb ed="Egidi" n="16" xml:id="Egidi_translatio_16"/>
+            quas <lb/> pono sub <lb/> illis, ma<lb/>nent con<lb/>tinuo pre<lb/>parate, <lb/> si vocaren<lb/>tur for<lb/>sitan ad <lb/> succur<lb/>sum consi<lb/>lium vel <lb/> vin
+            <pb ed="Egidi" n="17" xml:id="Egidi_translatio_17"/>  
+            dic<lb/>tam. ¶ Ea<lb/>rumve <lb/> quelibet <lb/> scripsit <lb/> atque di<lb/>xit amori partem quam <lb/> in capite capituli cuius<lb/>libet quod hic pono, </hi> </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

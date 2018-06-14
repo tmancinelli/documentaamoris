@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>documentidamore</description>
+    <author/>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>app-documentidamore</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions user="tizzja" group="dba" mode="rw-rw-r--"/>
+<deployed>2018-06-08T16:17:08.013+02:00</deployed>
+</meta>

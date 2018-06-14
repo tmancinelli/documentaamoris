@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Documenti d'Amore</title>
+            <respStmt>
+               <resp>Responsabile della codifica</resp>
+               <persName>
+                  <forename>Marcello</forename>
+                  <surname>Bolognari</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <facsimile>
+      <surface>
+         <graphic url="http://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0015_fa_0001v-2r.jp2/full/full/0/default.jpg"/>
+         <zone points="769,38 770,106 898,108 901,355 766,357 759,694 1014,695 1009,175 1048,164 1042,29" xml:id="zone_1v-2r_Recto_Apparatus_destra"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <body>
+         <div type="Apparatus_destra">
+            <pb ed="MSS_Barb_lat_4076" facs="#zone_1v-2r_Recto_Apparatus_destra" xml:id="pb_1v-2r_Recto_Apparatus_destra"/>
+            <pb ed="Egidi" n="7" xml:id="Egidi_apparatus_7"/>
+            <ab>quia eius potentia non minuitur propter dare nec augetur propter recipere, nec dat
+               quod penitere eum possit nec dat immerito [segno] Amor autem ex parte humana et inter
+               humanos sive divinus sit sive mundanus et omne gaudium et delectatio mentis, cum
+               omnibus accidentiis animi passiones sunt (i) Dicit enim Phyloso-phus dico autem
+               passiones quidem concupiscentiam iram timorem audaciam invidiam gaudium tristitiam
+               hodium avaritiam amorem ^elum misericordiam et omnia ex quibus sequitur delectatio
+               vel tristitia vide in hethica . Veniunt tamen quidam rudes dicere quod amor quia in
+               certis delectatio non esset passio quorum intentionis contrarium licet hoc quod
+               dicunt omni ratione careat et veritate, quibusdam auctoritatibus adiuvabo . ex quibus
+               tu satis in amore semper colliges passionem . Augustinus inquid totum exigit qui
+               fecit totum te . Et Gregorius nunquam est amor dei otiosus operatur enim magna si est
+               si enim operari renuit amor non est . Et Iohannes crisostomus Quid est diligere tota
+               mente nisi ut omnes sensus tui deo vacent sapientia intellectus cogitatio memoria .
+               Et bernardus super sapientie .vj°. o amor impetuose qui preter te aliquid cogitare
+               non sinis Adhuc Augustinus quantum te amabo bone yhesu quantum te amabo amor tuus
+               sicut fons amor meus sicut sitis Item Gregorius in homeliis super Iohannem . Amanti
+               semel aspexisse non sufficit quia vis amoris intentionem multiplicat inquisitionis .
+               Item Hugo de sancto victore in libro de arra sponse scis quia amor ignis est et ignis
+               quidem fogmentum querit ut ardeat ea vis est amoris ut talem te esse necesse sit
+               quale illud est quod amas et cui per effectum coniungeris in
+               <pb ed="Egidi" n="8" xml:id="Egidi_apparatus_8"/>
+               ipsius similitudinem ipsa quodammodo dilectionis sotietate transformaris . Et idem
+               in libro de ignibus sicut massa liquefacta per fistulam in mallum funditur et formam
+               accipit ita mens a-moris igne soluta per radium contemplationis usque ad ymagi-nem
+               divine similitudinis currit immo quicquid diligimus ipsa vi (i) dilectionis in eius
+               similitudinem transformamur Item Augustinus in libro de doctrina christiana . Si
+               omnes cogitationes tuas et omnem intellectum conferas a quo habes ea ipsa que confers
+               in eum ex toto corde diliges Et illud dilige dominum deum tuum ex toto corde ete .
+               Item Riccardus in libro de trinitate capitulo .xj. est namque indicium magne
+               infirmitatis non posse pati consortium amoris posse pati signum est magne perfecionis
+               si magnum est pati posse maius erit gratanter suscipere maximum autem ex desiderio
+               requirere I-tem Ieronimus hoc quippe habet impatiens amor ut qui desiderat semper
+               invenire se credat ingnorat si quidem iudicium ratione multotiens caret vero accipit
+               de impossibilitate sollatium neque ex difficultate remedium . Et hoc ultimum dictum
+               facit ad coadiuvandos illos qui olim amorem cecum representarunt sed hic et ibi
+               ponitur amans pro amore non amor remote ut supra in figura sua ut infra dicam et dixi
+               hactenus in vulgari ut infra habebis Ista tamen passio amoris adeo leviter respectu
+               ardoris propter dulcedinem portatur in animo quod qui diceret amanti vis non amare
+               nollet quia plagas suas habet amor que dulciores sunt cum [mitissime (2) inferuntur .
+               Et ut dicit ber-nardus labor meus vix est uuius ore et si amplius est pre a-more non
+               sentio . Accedit ad hec quod bernardus inquid in libro de diligendo deum amor dei
+               timorem expellit laborem non sentit premium non considerat licet sine premio diligi
+               non possit tamen secundum intentione premij diligendus est . et quamvis dicat laborem
+               non sentit non dicit quod non sit labor . vidisti igitur quod differentia est inter
+               amare dei et humanum et amor eius sicut fons amor noster sicut sitis Ipse etiam ut
+               dicit Augustinus amat nos propter nos et tollerat nos amare se propter nos . licet
+               amare debeamus quia amandus et colendus . Et inter hominem et hominem bene procedit
+               ut alter alterum propter eum non propter se amet et sic qui amat ut vituperet non
+               amat. De amoris forma . [segno] Sequitur modo que sit forma amoris representata in
+               figura . Et primo tibi respondeo vide eam pictam supra roccham in principio huius sui
+               libri Cuius figure si queris principalem motum dico tibi spiritualem . ut infra
+               plenius exprimetur . Si queris nunquid amor ipse seu
+               
+               <pb ed="Egidi" n="9" xml:id="Egidi_apparatus_9"/>
+               dicta eius figura amori licito mundano valeat conformari Respondeo sic . Sed quia
+               hic spatium tot dicta et figuras adduci bene non patitur . igitur in fine huius libri
+               et toto libro expedito invenies eandem figuram pictam . et tredecim alias figuras sub
+               ea in quibus representantnr modi et actus et passiones amantium . et apud dic[tas
+               figu]ras invenies quan-dam cantionem et quasdam gobulas vulgares ex quibus et ex
+               al[iis] circumpositis videbis quomodo illa omnia que ibi dicuntur ad intentionem
+               reducuntur spiritualem . licet cum ego illa dicta et figuras in publicum adduxi
+               dixerit Garagraffiilus gribolus quod ego ratione ... cuiusdam nobilis domine fuerim
+               mo[tus] ............ eum dicere permictas et ad ....... redeas prosequenda Et
+               vid....................................quid .... ipsa amoris forma . divino amori
+               valeat conformari .............................. Super ... quia ubi christus
+               fundamentum non est nichil superhedificari potest ... ........ paulus nomen eius
+               primitus invocemus ut adsit principio medio atque fini ..... presupposito ....
+               principio quod cuiusque rei potentissima rursus est digestis de ..........…........
+               quod divinus amor non est ......... separatum nec potest vero assimilali deo
+               ...................turani non potest .... similitudo notari
+               ................................ quia ut veritas . ...............................
+               videlicet .... capiens ....… possumus
+               dictum....................medi....................... ipsius amoris tanquam in nos
+               ........ vero .... ipsius dei.…present......figura . quia .... deus est qui....…
+               [segno] Equus vero qui subditur ................................................
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

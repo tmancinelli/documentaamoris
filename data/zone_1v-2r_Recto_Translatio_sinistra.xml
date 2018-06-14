@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Documenti d'Amore</title>
+            <respStmt>
+               <resp>Responsabile della codifica</resp>
+               <persName>
+                  <forename>Marcello</forename>
+                  <surname>Bolognari</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+                <p/>
+            </publicationStmt>
+         <sourceDesc>
+                <p/>
+            </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+   <facsimile>
+      <surface>
+         <graphic url="http://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0015_fa_0001v-2r.jp2/full/full/0/default.jpg"/>
+         <zone points="610,105 611,366 751,362 751,319 688,316 688,105" xml:id="zone_1v-2r_Recto_Translatio_sinistra"/>
+      </surface>
+   </facsimile>
+
+   <text>
+      <body>
+         <div type="Translatio_sinistra">
+            <pb facs="#zone_1v-2r_Recto_Translatio_sinistra" xml:id="pb_1v-2r_Recto_Translatio_sinistra"/> 
+             <pb ed="Egidi" n="5" xml:id="Egidi_translatio_5"/>
+                  <ab>
+                     quinta que qualiter quid habetur hostendit [segno] Sexta que cuius suffragio iuvante	tardatur, adducit [segno] Septima que quesita custodire nos instruit [punto] [segno] Octava que iocunditatem paratam, obbiedientibus
+                  </ab>
+                  
+                  <pb ed="Egidi" n="6" xml:id="Egidi_translatio_6"/>
+                     <ab> 
+                        representat [segno] Nona que custodientes male clavem, exterminat atque punit[punto] [segno] Decima que finem delectabilem nobis nostram, clarius prefigurat [punto] [segno] 
+                     </ab>
+                     
+                     <pb ed="Egidi" n="7" xml:id="Egidi_translatio_7"/>
+                        
+                        <ab> decima </ab>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

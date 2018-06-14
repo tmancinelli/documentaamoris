@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Documenti d'Amore</title>
+            <respStmt>
+               <resp>Responsabile della codifica</resp>
+               <persName>
+                  <forename>Giulia</forename>
+                  <surname>Barison</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+                <p/>
+            </publicationStmt>
+         <sourceDesc>
+                <p/>
+            </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+   <facsimile>
+      <surface>
+         <graphic url="http://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0016_fa_0002v-3r.jp2/full/full/0/default.jpg"/>
+         <zone points="243,129 250,318 379,316 380,127" xml:id="zone_2v-3r_Verso_Lirica"/>
+      </surface>
+   </facsimile>
+
+   <text>
+      <body>
+         <div type="Lirica">
+            <pb facs="#zone_2v-3r_Verso_Lirica" xml:id="pb_2v-3r_Verso_Lirica"/>
+            <pb ed="Egidi" n="15" xml:id="Egidi_translatio_15"/>
+            <lg>
+               <l> Le due che son collui a questa cosa, </l>
+               <l> sole intromesse sono, </l>  
+               <l> laltre che piu giu pono </l>
+               <pb ed="Egidi" n="16" xml:id="Egidi_lirica_16"/>
+               <l> tuttor apparecchiate </l>
+               <l> son se fosser chiamate </l>
+               <l> adar consiglio soccorso ovendetta </l>
+               <pb ed="Egidi" n="17" xml:id="Egidi_lirica_17"/>
+               <l> E ciascuna dilor ascripta edetta </l>
+               <l> prima ad amor la parte, </l>
+               <l> che pinta mostro in carte, </l>
+               <pb ed="Egidi" n="18" xml:id="Egidi_lirica_18"/>
+               <l> in capo di ciascono, </l>
+               <l> capitol che qui pono. </l>
+               <l> si che poremo ben comprender quelle </l>
+               <pb ed="Egidi" n="19" xml:id="Egidi_lirica_19"/>
+               <l> Como vedete dormon lassù elle, </l>
+               <l> per esser poi posate, </l>
+               <l> quandelle fien chiamate, </l>
+               <l> ele due poseranno, </l>
+               <l> che mo deritte stanno. </l>
+               <l> et ello e sempre di tutte signore </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Documenti d'Amore</title>
+            <respStmt>
+               <resp>Responsabile della codifica</resp>
+               <persName>
+                  <forename>Marcello</forename>
+                  <surname>Bolognari</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <facsimile>
+      <surface>
+         <graphic url="http://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0015_fa_0001v-2r.jp2/full/full/0/default.jpg"/>
+         <zone points="530,27 526,703 759,704 759,355 617,355 628,106 757,105 758,35" xml:id="zone_1v-2r_Recto_Apparatus_sinistra"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <body>
+         <div type="Apparatus_sinistra">
+            <pb ed="MSS_Barb_lat_4076" facs="#zone_1v-2r_Recto_Apparatus_sinistra" xml:id="pb_1v-2r_Recto_Apparatus_sinistra"/>
+            <pb ed="Egidi" n="5" xml:id="Egidi_apparatus_5"/>
+            <ab>simili voto consurgit quedam alia species que unanimitas nuncupatur [punto] unde
+               <label place="margin" rend="red">quid unanimitas</label> quid solet dici
+               unanimiter et concorditer convenerunt[punto] [segno] Amorem autem illicitum nec
+               diffinio nec dicendus est amor sed in <label place="margin" rend="red">quid
+                  illicitus</label> quid illicitus comunem usum proborum devenit quod rabies
+               appellatur [ ] Rabiem enim dico quod est quedam effrenata voluptas debito rationis
+               desideria carnis preponens [punto] et dicitur rabies quasi rapiens potestatem humanam
+               et irrationabilitati subiciens [punto] ex quo dominum Guidonem guiniçelli talem
+               amorem credo rabiem appellasse [punto] et de hoc amore credo loqui legem in corpore
+               autenticorum [ ] quibus modis naturales efficiantur legiptimi [punto][segno][punto]
+               illud collatione [punto]vja[punto] ubi Imperator castitatis amator, amorem appellavit
+               furorem quem retinere phylosophye est perfecte monentis et insilientem atque
+               <note>Dopo atque segue nel ms. co. espunto</note> inherentem concupiscentiam
+               refrenantis ut ibi dicitur[punto] [segno] Est et quidam amor de iure naturali ut
+               <label place="margin" rend="red">quid naturalis</label> patris et matris ad filios
+               qui non dum aliquid cognoscunt [ ] hoc etiam est comune omnium animalium ut dicit
+               ysidorus prima 
+               <pb ed="Egidi" n="6" xml:id="Egidi_apparatus_6"/>
+               distitione [ ] ius autem [punto] ut scilicet carnem suam amet quis [punto] Sed si
+               recte inspiciamus filij etiam ingnorantes amant quoscumque alentes eos [punto] Unde
+               videtur quod hunc amorem quantum ex parte Infantis ingnorantis adducat magis
+               beneficium quam natura [punto] quod probatur manifeste cum nutricem <note>Questa
+                  parola è riportata in margine. </note> talis preponat matri proprie [ ] quam
+               nutricem ex beneficio recognoscit [punto] Veruntamen cum ex una hic parte tantum
+               scienter ametur non <label place="margin" rend="red">quid dilectio amare</label>
+               dicam quod hic sit amor sed dilectio seu amare quoddam [punto] unde dicimus
+               exemplificando non esse amorem inter virum et dominam si solus vir amet et non domina
+               vel e contra [punto] Nam istud est quoddam amare ac desiderare amari [punto] et vere
+               potest meo iudicio dilectio appellari [punto] quamvis etiam cum ambo se invicem amant
+               dici possit utrimque inter eos esse dilectio [punto] sed tunc pro amore summitur ut
+               dictum est [punto] quod consuetudo quoad iuvat[punto] Nam aliquando quis salutans
+               dilectionem transmictit suam significans passionem dilectionis ad eum cuius ipse
+               intentionem sepius non congnoscit[punto] [segno] Item aliquando mala <label place="margin" rend="red">[qua]n[do] amor deside[r]ium dictus</label> et bona
+               dicuntur amari[punto] ut amarem mortem pro pena minori [punto] et amarem scire et
+               similia [punto] hec pro desideriis iustis vel iniustis <label place="margin" rend="red">quid amicitia</label> resolvo [punto] Est et amicitia que aliquando
+               inter duos amicos vel plures esse dicitur [punto] que licet sit amor quia tamen non
+               tantum artat partes ad continuam moram simul habendam igitur hoc alio nomine
+               appellatur [punto] hac quidem quasi non artati, sed casu, diligimus eos quibus
+               volumus amici esse si videantur volentes [punto] huius amicitie lex est ut dicit
+               tullius ut nec rogemus res turpes nec rogati faciamus [ ] nulla enim est excusatio si
+               amicitie causa peccaveris [punto] hanc etiam inquid nisi in bonis esse non posse
+               [punto] nam qui ea in malo utuntur non iam sibi amici existunt ut illi qui propter
+               amicos hodiunt alios unde dicitur ecclesiastici [punto]vjo.[punto] capitulo [ ] Noli
+               esse pro amico inimicus proximo [punto] que faciunt ad partes illas liciti et
+               illiciti amoris mundani[punto] [segno] Sequitur ex quo et quando creetur amor de
+               quibus duobus <label place="margin" rend="red">ex quo et quando creetur amor</label>
+               ex quo et insimul pertractabo [segno] Et dic quod amor ex alicuius visi tacti vel
+               auditi placiti concurrente consensu duorum invicem vel uno incipiente ac perseverante
+               et altero postmodum concedente creatur [segno] Et responsum est ex quo et quando
+               creetur [punto] Quam diffinitionem ad divinum et licitum mundanum intelligo referri
+               et hoc ita quod in divino deo amante hominem ut dei est amare, hominem dico
+               regeneratum antequam exeat de innocentie statu in primo ictu cum homo incipit
+               cognoscere, et scienter amare tunc idem incipere et idem esse creatum amorem est unum
+               [punto] Si autem homo exeat de innocentie
+               <pb ed="Egidi" n="7" xml:id="Egidi_apparatus_7"/>
+               statu peccando <note>questa parola è aggiunta sopra e è appena leggibile</note>
+               incontinenti perdit quod deus ad eum habebat [punto] et si penitet eum tunc uno
+               concursu ipso incipiente amare amatur [punto] Et ita exemplificamus in licito mundano
+               [punto] ut amante viro et non domina et viro perseverante in ipso ictu quo domina
+               incipit amare creatus est amor [punto] et e contra [punto] et dic semper ex aliquo
+               viso tacto vel audito placito [punto] Sed posses tu querere quare dicis tu ut dei est
+               amare [punto] Nonne amat ipse sicut et nos [punto] dic quod differentia sit ponenda
+               et quod deus nos amat hoc modo [punto] ut cum nos libero arbitrio <note>di difficile
+                  lettura: sembrerebbe arpitrio. </note> salvo eius iudicio re….<note>Della parola
+                     si legge solo la prima sillaba, il resto è svanito; la copia A relinquit. </note>,
+               amat idest sine passione aliqua contentus est ut nos propter nos amemus eum quia de
+               amore nostro ad eum glorie sue nichil addimus unde non patitur in velle cum possit
+               quod vult nec in gaudio quod in ipso augeri non potest [punto] nec in appetitu nostre
+               sal[vationis] propter liberum arbitrium a se datum [punto] placet tamen......… ne
+               iusti et iusta.......nil addit propter placentiam tum propter prescientiam suam tum
+               propter immensitatem infinite glorie sue ex hoc itaque amare..... gratiam repu.....in
+               quodam testum deum amant................................ de qua quidem gratia
+               possumus dicere quod etiam............ </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

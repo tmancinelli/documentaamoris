@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Documenti d'Amore</title>
+            <respStmt>
+               <resp>Responsabile della codifica</resp>
+               <persName>
+                  <forename>Giulia</forename>
+                  <surname>Barison</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+                <p/>
+            </publicationStmt>
+         <sourceDesc>
+                <p/>
+            </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+   <facsimile>
+      <surface>
+         <graphic url="http://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0016_fa_0002v-3r.jp2/full/full/0/default.jpg"/>
+         <zone points="382,130 442,128 442,359 332,369 331,337 383,328" xml:id="zone_2v-3r_Verso_Translatio_destra"/>
+      </surface>
+   </facsimile>
+
+   <text>
+      <body>
+         <div type="Translatio_destra">
+            <pb facs="#zone_2v-3r_Verso_Translatio_destra" xml:id="pb_2v-3r_Verso_Translatio_destra"/>
+            <pb ed="Egidi" n="17" xml:id="Egidi_translatio_17"/> 
+               <ab xml:id="translatio_1_b"> <hi rend="italic"> reperies pic<lb/>tam cartis.
+            <pb ed="Egidi" n="18" xml:id="Egidi_translatio_18"/>
+            adeo ut eas<lb/>dem facile <lb/> comprehen<lb/>dere valea<lb/>mus et ple
+            <pb ed="Egidi" n="19" xml:id="Egidi_translatio_19"/>
+            ne. ¶ Hec qui<lb/>dem dormi<lb/>unt, superi<lb/>us ut vide<lb/>tis, quia cum <lb/> vocate fue<lb/>rint sint <lb/> pausate. ¶ Ce<lb/>terum due <lb/> que nunc, <lb/> secum sunt, <lb/> tunc tempo<lb/>ris requiescent. <lb/> ¶ Ipse namque illarum sem<lb/>per
+            <pb ed="Egidi" n="20" xml:id="Egidi_translatio_20"/>
+            est dominus, et etiam <lb/> aliarum, quas emictit ad </hi> </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

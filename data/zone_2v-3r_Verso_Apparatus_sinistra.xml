@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Documenti d'Amore</title>
+            <respStmt>
+               <resp>Responsabile della codifica</resp>
+               <persName>
+                  <forename>Giulia</forename>
+                  <surname>Barison</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+                <p/>
+            </publicationStmt>
+         <sourceDesc>
+                <p/>
+            </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+   <facsimile>
+      <surface>
+         <graphic url="http://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0016_fa_0002v-3r.jp2/full/full/0/default.jpg"/>
+         <zone points="92,71 304,67 312,114 207,121 215,377 306,376 317,678 88,680" xml:id="zone_2v-3r_Verso_Apparatus_sinistra"/>
+      </surface>
+   </facsimile>
+
+   <text>
+      <body>
+         <div type="Apparatus_sinistra">
+            <pb facs="#zone_2v-3r_Verso_Apparatus_sinistra" xml:id="pb_2v-3r_Verso_Apparatus_sinistra"/>
+            <pb ed="Egidi" n="15" xml:id="Egidi_apparatus_15"/>
+            <ab xml:id="app_1_a"> ad suam incomprehensibilitatem denotandam. Iuxta illud o altitudo divitiarum quam incomprehensibi<lb/>lia sunt opera eius et investigabiles vie eius et in veteri lege bestia que montem tetigerit la<lb/>pidabitur. Et accedet homo ad cor altum et exaltabitur ab eo ¶ Ramus erbe vel arboris qui quodammodo <lb/> tegit latera eius denotat quod in ipso est omnis honestas et si honestas omnis virtus Unde Seneca <lb/> virtus et honestum nomina quidem diversa sunt res autem subiecta prorsus eadem et tulli us bonum <lb/> et honestum et utile summa auctoritate phylosophi sic permiscentur ut quicquid bonum est id utile <lb/> censeant et quicquid honestum id bonum <lb/> adstruant ¶ Figuram habet hominis per quam in eo si<lb/>gnatur humanitas ¶ Alas habet in quibus signatur <lb/> spiritus sanctus. ¶ Certa pars eius non videtur ut po<lb/>steriora capitis sui et pennarum exteriorum. unde <lb/> signatur divinitas que absolute sumpta invi<lb/>sibilis est ¶ Pedes falconis habet ad denotandum <lb/> quod amore divino iungitur homo deo. et si perfecte iun<lb/>gitur nunquam gratiam tanti amoris amictit sicut <lb/> dicit canon quod perfecta caritas semel habita non amic<lb/>titur. et que amictitur non erat perfecta de pe<lb/>nitentia distintione .ij. hec que de caritate. <lb/> de qua dicit apostolus si habuero omnem fidem ita <lb/> ut montes transferam et si distribuero <lb/> omnem facultatem in cibos pauperum et si tradide<lb/>ro corpus meum ut ardeam caritatem autem <lb/> non habeam nichil michi prodest ut eadem di<lb/>stinctione evidenter. et de qua dicit Augustinus quod <lb/> habens caritatem, criminaliter peccare non potest ut <lb/> eadem distinctione .§. quod autem de hiis tamen sta<lb/>bis glose que ponitur de penitentia distinctione secunda in <lb/> summa ibi vide. ¶ Et sicut nichil est medium inter <lb/> deum et iustam animam ita nichil represento me<lb/>dium inter ipsam amoris formam et equum in <lb/> quo representatur amans ¶ Oculos habet denotan<lb/>tes quod ipse omnia videt et in omnibus recte iudi<lb/>cat et discernit ¶ Manus vero habet ad deno
+            <pb ed="Egidi" n="16" xml:id="Egidi_apparatus_16"/>
+            tandum quod velut homo manibus materialia diri<lb/>git et gubernat ita iste ut in spiritualibus <lb/> que sunt altiora ita in materialibus que sunt <lb/> inferiora omnipotens est et omnia potest que decent eius <lb/> potentiam Vnde dicimus eum peccare non posse <lb/> quia id est aliquid non posse. posse autem omnia quem <lb/> posse est aliquid posse ut de penitentia distin<lb/>tione .ij. omnis creatura ¶ loquitur per eloquentiam ad <lb/> hostendendam summam sapientiam suam. que sapientia ante <lb/> omnem creaturam primogenita prodiit et fecit ut in celis indeficiens lumen oriretur et <lb/> sicut nebula texit omnem terram . et in altissimis habitavit et tronus eius in columna nubis. <lb/> girum celi circuivit sola et in profundum abissi penetravit ecclesiastici .xiiii. capitulo et sapientiam <lb/> eius quis enarrabit etc. Vnde et ineffabilis dicitur. Nec mireris si tantus dominus non ipse sed <lb/> per aliam personam loquitur. cum et terreni principes nedum subditis suis ut iste facit verum <lb/> etiam extraneis et illustribus et spectabilibus et clarissimis et aliis magnis vi<lb/>ris non ipsi per se sed per alios ad se magnificandum loquantur ut plurimum. <lb/> quod maxime probatur per serenissimum Regem francorum. Summus autem pontifex qui se <lb/> ratione humilitatis dicit servum servorum dei eadem ratione ut plurimum per se respondet. <lb/> licet hodie dei sepius auditores qui sunt postea tardissimi relatores. quod <lb/> forte propter occupationes contingit ¶ Super pedes suos rectus stat hic amor ad de<lb/>notandum quod continue opera sue pietatis in nostram salvationem exercet ¶ Iacula proicit <lb/> manu dextra in quo denotantur effectus iustitie et effectus amoris nam et amor <lb/> in humana fragilitate habbundantia sue dulcedinis cuius capaces non sumus ardendo <lb/> quasi dolorem incutit de quo satis est dictum supra. quod ad se magis hostendendum facit unde <lb/> Augustinus amor magis hostenditur cum eum promit indigentia in quo maximam denotat <lb/> passionem in nobis. Multos nanque ut antiqui referunt constat ex letitia cecidisse <lb/> quia cum restringis
+            <pb ed="Egidi" n="17" xml:id="Egidi_apparatus_17"/>
+            omnes potentias tuas in unum. difficile est animam sic ligatam ad pas<lb/>sionem subsistere ¶ Rosas proicit ex quo colligitur meritum quod confert nobis si mandata <lb/> eius servaverimus ut centuplum accipietis etc ¶ In aere stat ad denotandum quod immensus <lb/> est et infra omnia non inclusus extra omnia non exclusus supra omnia non elatus et stabilis manens <lb/> dat cunta moveri ¶ Rotundam habet faciem ad denotandam etternitatem quia dei misericordie nec men<lb/>suram ponere possumus nec tempora diffinire ¶ Et apertam effigiem suam hostendit quia omnino est <lb/> simplex nam cum triplex sit compositio partis ad partes ut in rebus corporalibus et compositio <lb/> proprietatis ad substantiam ut rationalitas in anima ac forme ad substantiam et substantie ad formam <lb/> nulla istarum compositionum cadit in eum et dic omnino idest quolibet sensu compositionis et est quasi <lb/> simile in anima cuius substantia simplex est et tamen tria reperiuntur in anima intellectus qui concipit ratio que di<lb/>scernit et memoria que conservat. intellectus pre-percipiens comparatur patri primo operanti ratio <lb/> discernens filio qui est sapientia patris disponens omnia in celo et in terra memoria conser<lb/>vans comparatur spiritui sancto quia omnia bona conroborat et confirmat. sicut ista tria idem sunt in <lb/> substantia cum anima sic tres persone pater filius et spiritus sanctus idem sunt in substantia ¶ Trium generum habet ia<lb/>cula in quibus de somma tribus generibus summendo quodlibet genus pro uno representantur tres per<lb/>sone in trinitate sed una essentia substantia seu ca natura. Super quo quia hic nostra fides <lb/> et salvatio pendet aliquantulum insistamus. Et breviter dixit Guillelmus de Contio <lb/> in summa natura creatricem esse substantiam sine longo et lato et spisso . immensam sine ap<lb/>plicatione et dispositione sapientem et iustam sine omni passione misericordem et piam <lb/> sine motu omnia agentem et in omni loco essentialiter sine extensione essentialiter </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

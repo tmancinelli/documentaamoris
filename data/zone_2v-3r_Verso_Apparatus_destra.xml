@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Documenti d'Amore</title>
+            <respStmt>
+               <resp>Responsabile della codifica</resp>
+               <persName>
+                  <forename>Giulia</forename>
+                  <surname>Barison</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+                <p/>
+            </publicationStmt>
+         <sourceDesc>
+                <p/>
+            </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+   <facsimile>
+      <surface>
+         <graphic url="http://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0016_fa_0002v-3r.jp2/full/full/0/default.jpg"/>
+         <zone points="329,73 329,112 441,118 440,376 326,384 337,677 525,679 517,71" xml:id="zone_2v-3r_Verso_Apparatus_destra"/>
+      </surface>
+   </facsimile>
+
+   <text>
+      <body>
+         <div type="Apparatus_destra">
+            <pb facs="#zone_2v-3r_Verso_Apparatus_destra" xml:id="pb_2v-3r_Verso_Apparatus_destra"/>
+            <pb ed="Egidi" n="17" xml:id="Egidi_apparatus_17"/>
+            <ab xml:id="app_1_b"> existentem. sine preterito et futuro
+            <pb ed="Egidi" n="18" xml:id="Egidi_apparatus_18"/>
+            semper presentem omnipotentem omnisden<lb/>tem. Credimus in divinitate tres personas patrem ingenitam filiam unige<lb/>nitam spiritum sanctam ab utroque procedentem. nullam Diarum esse aliam omnes tamen esse idem. <lb/> omnes esse eiusdem potentie sapiende voluntatis et operationis. multa posse que non <lb/> volunt nulla velle que non possint unamquamque illarum esse personam idest <lb/> rationalis natare, individuam essentiam . omnes esse unum existens et unum deum. <lb/> Credimus unam de hiis per<lb/>sonis scilicet filium carnem de <lb/> virgine sumpsisse ut qui erat <lb/> filios in divinitate esset <lb/> filius in humanitate verum <lb/> deum verum hominem sine com<lb/>mistione et mutatione in <lb/> duabus nataris ex una carne <lb/> et anima rationali sine patre <lb/> carnali existere. eandemque per<lb/>sonam que et prius creatricem <lb/> et creatam facientem et factam <lb/> sicque veram esse quod prius fuit <lb/> in auditam creator est creatu<lb/>ra quia deus est homo . verum est hunc <lb/> hominem celum et terram creasse <lb/> hunc deum mortuum fuisse non <lb/> tamen erat homo quando ista creavit <lb/> sed erat deus quando mortuus <lb/> fuit. Credimus hunc verum <lb/> deum et hominem sub pondo pi<lb/>lato passum crucifixum et mor<lb/>tuum. corpus cum divinitate si<lb/>ne anima in sepulcro iacuisse <lb/> animam cum eadem divinitate <lb/> sine corpore ad inferos descen<lb/>disse. Tertia die coniunta anima <lb/> suo corpori eundem surrexisse. <lb/> Apostolis in multis argumentis ap<lb/>paruisse. Quadragesimo die <lb/> videntibus illis celos adscendisse. <lb/> Quinquagesimo die spiritum sanctum in <lb/> ingneis linguis misisse eundemque <lb/> ad iudicandos vivos et mortuos ven<lb/>turum esse ¶ De hoc dic plenius <lb/> ut habetur extra de summa tri<lb/>nitate et fide catholica in <lb/> capitulo firmiter credimus et non poteris errare quia decrevit id alma ma<lb/>ter ecclesia. In quibus ubi ratio est nobis incognita fides supplet est enim fides credere <lb/> quod non vides de prima distintione .iiij. in domo. et est qualitas qua quis credit quod <lb/> diligit. Vnde augustinus fides que per dilettionem operatur est fundamentum omnium virtutum. Et <lb/> istam fidem nostram caritas commitatur penes quam consistit omne meritum et est fons <lb/> vivus cui non comunicat alienus de penitenza distintione prima item ut ait christus <lb/> Si enim per rationem que sunt fidei videremus fides nostra meritum non
+            <pb ed="Egidi" n="19" xml:id="Egidi_apparatus_19"/>
+            haberet iuxta <lb/> illud fides non habet meritum cui humana ratio probet experimentum . Sed ante quam ad alia <lb/> transeamus quia de hiis ut melius possumus instrui debemus ut sint ad salvationem <lb/> creduli veniamus de consecratione distintione .iiij. ante. dicit ibi glosa ad in<lb/>telligentiam personarum in trinitate quod nominum quedam sunt essentialia quedam personalia quedam notiona<lb/>lia essentialia que in singolari numero dicuntur de tribus personis sigillatim. ut deus <lb/> bonus iustus etternus omnipotens et similia in plurali dicuntur incongrue iuxta illud Ana<lb/>stasij non tres dij sed unus est deas. Personalia sunt que supponunt personam tantum et in singula<lb/>ri numero tantum. ut pater filius et spiritus sanctus. Notionalia sunt que notant distintionem in <lb/> personis. ut generans generata et procedens. ista notionalia conveniunt adiective <lb/> quia tantum de personis dicuntur. et non de essentia sed quando tenentur substantive tunc tam <lb/> de essentia quam de personis dicuntur. Vnde hec prepositio est simpliciter vera. pater est generans <lb/> sive hec dictio generans teneatur adiettive sive substantive . Si autem dicatur substantia <lb/> divina est generans si hec dictio generans teneatur adiettive falsa est quia vellet <lb/> notare distinctionem in divina essentia si teneatur substantive vera est quia tunc is <lb/> est sensus substantia divina est generans ¶ idest est persona que generat unde ista nomina, generans <lb/> genita procedens adiuncta nominibus personarum distinctionem notant personarum <lb/> iuncta vero cum nominibus istis substantia natura seu essentia divina tenentur substantive <lb/> ac notant essentiam tantum. Item dicitur ibi, quod distintiva sive partitiva no<lb/>mina ut unus aliquis duo et. similia aliquando significant essentiam
+            <pb ed="Egidi" n="20" xml:id="Egidi_apparatus_20"/>
+               aliquando non. no<lb/>mina partitiva iuncta nominibus personalibus et non essentialibus in masculino genere et femi<lb/>nino notant distinctionem in personis. pater est unus filius est alius pater et filius sunt <lb/> duo. iuncta vero cum nominibus essentialibus ita quod eis innitantur essentiam no<lb/>tant ut pater est unus deus pater et filius sunt una essentia in neutro vero genere tan<lb/>tum essentiam notant pater et filius sunt unum. idest una res et immo optime dicitur <lb/> alius pater alius filius idest alia est persona patris alia filij non aliud immo idem sunt in substantia <lb/> ¶ Nunc est ad propositum redeundum. et dic quod iste amor facit equum portare fare<lb/>tram ad hostendendum quod qui vult applicari tanto patri, voluntarie debet parare <lb/> illa deo quibus iungitur ei scilicet cor et opera. Item notatur ex hoc quod in amore isto <lb/> deus ipse non laborat sicut quia non fert faretram quod facit ad partem quod nos soli <lb/> patimur. Item et ipse tenet ramum rosarum et substinet illum etiam equus ut notetur <lb/> quod opera hominis sunt causa meriti habendi et de qualitate meriti est in potestate dei. <lb/> Item facit equum portare corda aliorum ad denotandum quod viri iusti et sancti <lb/> habentur in memoria etterna iuxta illud propheticum in memoria etterna erit </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
