@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <canvases>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0001" width="2164" height="2904" label="piatto.anteriore">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0001_al_piatto.anteriore.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0001_al_piatto.anteriore.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0002" width="3896" height="3055" label="risguardia.anteriore-1r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0002_ba_risguardia.anteriore-1r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0002_ba_risguardia.anteriore-1r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0003" width="3896" height="3055" label="1v-2r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0003_cy_0001v-2r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0003_cy_0001v-2r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0004" width="3692" height="2854" label="2v-3r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0004_cy_0002v-3r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0004_cy_0002v-3r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0005" width="3810" height="3035" label="3v-4r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0005_cy_0003v-4r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0005_cy_0003v-4r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0006" width="3803" height="2962" label="4v-1r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0006_cy_0004v-1r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0006_cy_0004v-1r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0007" width="3796" height="2926" label="Iv-2r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0007_fr_0001v-2r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0007_fr_0001v-2r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0008" width="3707" height="2832" label="IIv-3r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0008_fr_0002v-3r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0008_fr_0002v-3r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0009" width="3854" height="2984" label="IIIv-4r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0009_fr_0003v-4r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0009_fr_0003v-4r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0010" width="3718" height="2883" label="IVv-5r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0010_fr_0004v-5r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0010_fr_0004v-5r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0011" width="3707" height="2828" label="Vv-6r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0011_fr_0005v-6r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0011_fr_0005v-6r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0012" width="3739" height="2824" label="VIv-7r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0012_fr_0006v-7r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0012_fr_0006v-7r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0013" width="3695" height="2856" label="VIIv-8r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0013_fr_0007v-8r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0013_fr_0007v-8r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0014" width="3893" height="2966" label="VIIIv-1r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0014_fr_0008v-1r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0014_fr_0008v-1r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0015" width="3672" height="2804" label="1v-2r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0015_fa_0001v-2r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0015_fa_0001v-2r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0016" width="3846" height="2961" label="2v-3r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0016_fa_0002v-3r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0016_fa_0002v-3r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0017" width="3846" height="2961" label="3v-4r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0017_fa_0003v-4r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0017_fa_0003v-4r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0018" width="3771" height="2794" label="4v-5r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0018_fa_0004v-5r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0018_fa_0004v-5r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0019" width="3853" height="3006" label="5v-6r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0019_fa_0005v-6r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0019_fa_0005v-6r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0020" width="3893" height="2966" label="6v-7r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0020_fa_0006v-7r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0020_fa_0006v-7r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0021" width="3853" height="3006" label="7v-8r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0021_fa_0007v-8r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0021_fa_0007v-8r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0022" width="3740" height="2853" label="8v-9r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0022_fa_0008v-9r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0022_fa_0008v-9r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0023" width="3867" height="2999" label="9v-10r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0023_fa_0009v-10r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0023_fa_0009v-10r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0024" width="3867" height="2999" label="10v-11r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0024_fa_0010v-11r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0024_fa_0010v-11r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0025" width="3756" height="2878" label="11v-12r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0025_fa_0011v-12r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0025_fa_0011v-12r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0026" width="3903" height="2973" label="12v-13r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0026_fa_0012v-13r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0026_fa_0012v-13r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0027" width="3903" height="2973" label="13v-14r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0027_fa_0013v-14r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0027_fa_0013v-14r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0028" width="3903" height="2959" label="14v-15r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0028_fa_0014v-15r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0028_fa_0014v-15r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0029" width="3893" height="2966" label="15v-16r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0029_fa_0015v-16r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0029_fa_0015v-16r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0030" width="3860" height="2955" label="16v-17r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0030_fa_0016v-17r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0030_fa_0016v-17r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0031" width="3861" height="2955" label="17v-18r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0031_fa_0017v-18r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0031_fa_0017v-18r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0032" width="3715" height="2864" label="18v-19r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0032_fa_0018v-19r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0032_fa_0018v-19r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0033" width="3740" height="2866" label="19v-20r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0033_fa_0019v-20r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0033_fa_0019v-20r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0034" width="3868" height="3028" label="20v-21r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0034_fa_0020v-21r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0034_fa_0020v-21r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0035" width="3825" height="3025" label="21v-22r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0035_fa_0021v-22r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0035_fa_0021v-22r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0036" width="3778" height="2900" label="22v-23r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0036_fa_0022v-23r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0036_fa_0022v-23r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0037" width="3746" height="2898" label="23v-24r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0037_fa_0023v-24r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0037_fa_0023v-24r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0038" width="3839" height="3026" label="24v-25r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0038_fa_0024v-25r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0038_fa_0024v-25r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0039" width="3839" height="3026" label="25v-26r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0039_fa_0025v-26r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0039_fa_0025v-26r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0040" width="3868" height="3028" label="26v-27r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0040_fa_0026v-27r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0040_fa_0026v-27r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0041" width="3868" height="3028" label="27v-28r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0041_fa_0027v-28r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0041_fa_0027v-28r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0042" width="3889" height="3029" label="28v-29r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0042_fa_0028v-29r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0042_fa_0028v-29r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0043" width="3746" height="2874" label="29v-30r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0043_fa_0029v-30r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0043_fa_0029v-30r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0044" width="3839" height="3026" label="30v-31r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0044_fa_0030v-31r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0044_fa_0030v-31r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0045" width="3780" height="2893" label="31v-32r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0045_fa_0031v-32r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0045_fa_0031v-32r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0046" width="3825" height="3025" label="32v-33r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0046_fa_0032v-33r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0046_fa_0032v-33r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0047" width="3825" height="2968" label="33v-34r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0047_fa_0033v-34r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0047_fa_0033v-34r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0048" width="3853" height="2977" label="34v-35r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0048_fa_0034v-35r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0048_fa_0034v-35r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0049" width="3754" height="2877" label="35v-36r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0049_fa_0035v-36r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0049_fa_0035v-36r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0050" width="3854" height="2977" label="36v-37r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0050_fa_0036v-37r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0050_fa_0036v-37r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0051" width="3868" height="2978" label="37v-38r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0051_fa_0037v-38r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0051_fa_0037v-38r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0052" width="3868" height="2978" label="38v-39r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0052_fa_0038v-39r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0052_fa_0038v-39r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0053" width="3868" height="2978" label="39v-40r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0053_fa_0039v-40r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0053_fa_0039v-40r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0054" width="3882" height="2979" label="40v-41r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0054_fa_0040v-41r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0054_fa_0040v-41r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0055" width="3925" height="2982" label="41v-42r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0055_fa_0041v-42r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0055_fa_0041v-42r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0056" width="3925" height="2982" label="42v-43r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0056_fa_0042v-43r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0056_fa_0042v-43r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0057" width="3925" height="2982" label="43v-44r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0057_fa_0043v-44r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0057_fa_0043v-44r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0058" width="3925" height="2982" label="44v-45r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0058_fa_0044v-45r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0058_fa_0044v-45r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0059" width="3715" height="2841" label="45v-46r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0059_fa_0045v-46r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0059_fa_0045v-46r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0060" width="3925" height="2982" label="46v-47r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0060_fa_0046v-47r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0060_fa_0046v-47r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0061" width="3730" height="2889" label="47v-48r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0061_fa_0047v-48r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0061_fa_0047v-48r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0062" width="3925" height="3003" label="48v-49r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0062_fa_0048v-49r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0062_fa_0048v-49r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0063" width="3925" height="3003" label="49v-50r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0063_fa_0049v-50r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0063_fa_0049v-50r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0064" width="3782" height="2885" label="50v-51r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0064_fa_0050v-51r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0064_fa_0050v-51r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0065" width="3925" height="3004" label="51v-52r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0065_fa_0051v-52r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0065_fa_0051v-52r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0066" width="3925" height="3004" label="52v-53r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0066_fa_0052v-53r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0066_fa_0052v-53r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0067" width="3925" height="3004" label="53v-54r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0067_fa_0053v-54r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0067_fa_0053v-54r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0068" width="3925" height="3004" label="54v-55r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0068_fa_0054v-55r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0068_fa_0054v-55r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0069" width="3925" height="3004" label="55v-56r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0069_fa_0055v-56r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0069_fa_0055v-56r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0070" width="3925" height="3004" label="56v-57r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0070_fa_0056v-57r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0070_fa_0056v-57r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0071" width="3925" height="3003" label="57v-58r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0071_fa_0057v-58r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0071_fa_0057v-58r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0072" width="3925" height="3003" label="58v-59r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0072_fa_0058v-59r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0072_fa_0058v-59r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0073" width="3925" height="3003" label="59v-60r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0073_fa_0059v-60r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0073_fa_0059v-60r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0074" width="3925" height="3003" label="60v-61r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0074_fa_0060v-61r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0074_fa_0060v-61r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0075" width="3925" height="3003" label="61v-62r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0075_fa_0061v-62r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0075_fa_0061v-62r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0076" width="3925" height="3003" label="62v-63r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0076_fa_0062v-63r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0076_fa_0062v-63r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0077" width="3741" height="2887" label="63v-64r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0077_fa_0063v-64r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0077_fa_0063v-64r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0078" width="3925" height="3003" label="64v-65r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0078_fa_0064v-65r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0078_fa_0064v-65r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0079" width="3925" height="3003" label="65v-66r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0079_fa_0065v-66r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0079_fa_0065v-66r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0080" width="3698" height="2836" label="66v-67r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0080_fa_0066v-67r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0080_fa_0066v-67r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0081" width="3766" height="2896" label="67v-68r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0081_fa_0067v-68r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0081_fa_0067v-68r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0082" width="3748" height="2876" label="68v-69r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0082_fa_0068v-69r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0082_fa_0068v-69r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0083" width="3719" height="2905" label="69v-70r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0083_fa_0069v-70r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0083_fa_0069v-70r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0084" width="3736" height="2910" label="70v-71r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0084_fa_0070v-71r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0084_fa_0070v-71r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0085" width="3732" height="2893" label="71v-72r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0085_fa_0071v-72r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0085_fa_0071v-72r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0086" width="3911" height="3002" label="72v-73r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0086_fa_0072v-73r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0086_fa_0072v-73r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0087" width="3911" height="3002" label="73v-74r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0087_fa_0073v-74r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0087_fa_0073v-74r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0088" width="3911" height="3002" label="74v-75r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0088_fa_0074v-75r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0088_fa_0074v-75r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0089" width="3911" height="3002" label="75v-76r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0089_fa_0075v-76r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0089_fa_0075v-76r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0090" width="3911" height="3002" label="76v-77r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0090_fa_0076v-77r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0090_fa_0076v-77r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0091" width="3766" height="2892" label="77v-78r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0091_fa_0077v-78r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0091_fa_0077v-78r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0092" width="3792" height="2939" label="78v-79r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0092_fa_0078v-79r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0092_fa_0078v-79r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0093" width="3911" height="3002" label="79v-80r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0093_fa_0079v-80r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0093_fa_0079v-80r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0094" width="3800" height="2873" label="80v-81r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0094_fa_0080v-81r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0094_fa_0080v-81r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0095" width="3800" height="2873" label="81v-82r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0095_fa_0081v-82r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0095_fa_0081v-82r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0096" width="3800" height="2873" label="82v-83r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0096_fa_0082v-83r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0096_fa_0082v-83r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0097" width="3800" height="2873" label="83v-84r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0097_fa_0083v-84r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0097_fa_0083v-84r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0098" width="3800" height="2873" label="84v-85r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0098_fa_0084v-85r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0098_fa_0084v-85r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0099" width="3800" height="2873" label="85v-86r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0099_fa_0085v-86r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0099_fa_0085v-86r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0100" width="3843" height="2876" label="86v-87r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0100_fa_0086v-87r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0100_fa_0086v-87r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0101" width="3843" height="2876" label="87v-88r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0101_fa_0087v-88r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0101_fa_0087v-88r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0102" width="3843" height="2876" label="88v-89r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0102_fa_0088v-89r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0102_fa_0088v-89r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0103" width="3843" height="2876" label="89v-90r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0103_fa_0089v-90r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0103_fa_0089v-90r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0104" width="3843" height="2876" label="90v-91r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0104_fa_0090v-91r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0104_fa_0090v-91r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0105" width="3843" height="2876" label="91v-92r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0105_fa_0091v-92r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0105_fa_0091v-92r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0106" width="3843" height="2876" label="92v-93r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0106_fa_0092v-93r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0106_fa_0092v-93r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0107" width="3843" height="2876" label="93v-94r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0107_fa_0093v-94r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0107_fa_0093v-94r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0108" width="3843" height="2876" label="94v-95r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0108_fa_0094v-95r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0108_fa_0094v-95r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0109" width="3843" height="2876" label="95v-96r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0109_fa_0095v-96r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0109_fa_0095v-96r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0110" width="3843" height="2876" label="96v-97r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0110_fa_0096v-97r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0110_fa_0096v-97r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0111" width="3843" height="2876" label="97v-98r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0111_fa_0097v-98r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0111_fa_0097v-98r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0112" width="3843" height="2876" label="98v-99r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0112_fa_0098v-99r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0112_fa_0098v-99r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0113" width="3843" height="2876" label="99v-100r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0113_fa_0099v-100r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0113_fa_0099v-100r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0114" width="3667" height="2816" label="100v-101r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0114_fa_0100v-101r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0114_fa_0100v-101r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0115" width="3843" height="2876" label="101v-102r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0115_fa_0101v-102r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0115_fa_0101v-102r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0116" width="3843" height="2876" label="102v-1r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0116_fa_0102v-1r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0116_fa_0102v-1r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0117" width="3843" height="2876" label="1v-2r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0117_sy_0001v-2r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0117_sy_0001v-2r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0118" width="3843" height="2876" label="2v-3r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0118_sy_0002v-3r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0118_sy_0002v-3r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0119" width="3843" height="2876" label="3v-4r">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0119_sy_0003v-4r.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0119_sy_0003v-4r.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0120" width="3893" height="2987" label="4v-risguardia.posteriore">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0120_sy_0004v-risguardia.posteriore.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0120_sy_0004v-risguardia.posteriore.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0121" width="479" height="2737" label="dorso">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0121_yh_dorso.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0121_yh_dorso.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0122" width="2158" height="2973" label="piatto.posteriore">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0122_za_piatto.posteriore.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0122_za_piatto.posteriore.jp2</image>
+        </canvas>
+        <canvas id="https://digi.vatlib.it/iiif/MSS_Barb.lat.4076/canvas/p0123" width="3735" height="2840" label="colorchecker">
+            <thumbnail>https://digi.vatlib.it/pub/digit/MSS_Barb.lat.4076/thumb/Barb.lat.4076_0123_zx_colorchecker.tif.jpg</thumbnail>
+            <image>https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0123_zx_colorchecker.jp2</image>
+        </canvas>
+    </canvases>
+</manifest>

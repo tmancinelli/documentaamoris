@@ -13,6 +13,7 @@ import module namespace templates="http://exist-db.org/xquery/templates" ;
  :)
 import module namespace config="http://exist-db.org/apps/documentidamore/config" at "config.xqm";
 import module namespace app="http://exist-db.org/apps/documentidamore/templates" at "app.xql";
+import module namespace manuscript="http://exist-db.org/apps/documentidamore/controllers/manuscript" at "controllers/manuscript.xqm";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 

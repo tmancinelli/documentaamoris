@@ -1,61 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title data-template="config:app-title">App Title</title>
+        <title data-template="config:app-title">Documenti D'Amore</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <meta data-template="config:app-meta"/>
         <link rel="shortcut icon" href="$shared/resources/images/exist_icon_16x16.ico"/>
-        <link rel="stylesheet" type="text/css" href="$shared/resources/css/exist-2.2.css"/>
+        <link rel="stylesheet" type="text/css" href="$shared/resources/css/bootstrap.min.css"/>
+        <link rel="stylesheet" type="text/css" href="$shared/resources/css/bootstrap-responsive.min.css"/>
         <link rel="stylesheet" type="text/css" href="resources/css/style.css"/>
         <script type="text/javascript" src="$shared/resources/scripts/jquery/jquery-1.7.1.min.js"/>
         <script type="text/javascript" src="$shared/resources/scripts/bootstrap-3.0.3.min.js"/>
         <script type="text/javascript" src="$shared/resources/scripts/loadsource.js"/>
     </head>
-    <body id="grey-top">
-        <div class="grey-bot">
-            <div class="container" id="main-container">
-                <div class="row">
-                    <div class="col-md-12" id="header">
-                        <a href="/" id="logo">eXistDB</a>
-                    </div>
-                </div>
-                <div class="row">
-                    <nav class="navbar navbar-default" role="navigation">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"/>
-                            <span class="icon-bar"/>
-                            <span class="icon-bar"/>
-                        </button>
-                        <div class="navbar-collapse collapse" id="navbar-collapse-1">
-                            <ul class="nav navbar-nav">
-                                <li class="dropdown" id="about">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home</a>
-                                    <ul class="dropdown-menu">
-                                        <li>
-                                            <a href="index.html">Home</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </nav>
-                </div>
-                <div id="content" class="row"/>
+    <body>
+         <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <a class="navbar-brand" href="#">Navbar</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"/>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span>
+                        </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Chi siamo</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#">Bibliografia</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Et alia</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <a class="dropdown-item" href="#">Something else here</a>
             </div>
-        </div>
-        <a id="poweredby" href="http://exist-db.org"/>
-        <div id="footer">
-            <div class="container">
-                <ul>
-                    <li>
-                        <a href="http://exist-db.org">eXist-db.org</a>
-                    </li>
-                </ul>
-                <div id="copyright">
-                    <p>Copyright eXist-db Project 2013</p>
-                </div>
-            </div>
-        </div>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search"/>
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+    
+        <div id="container" class="container"/>
+        
     </body>
 </html>
