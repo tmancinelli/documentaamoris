@@ -58,8 +58,26 @@ declare function manuscript:currentData() {
     return manuscript:data($id, $carta)
 };
 
-declare function manuscript:view($node as node(), $model as map(*)) {
+declare function manuscript:viewImage($node as node(), $model as map(*)) {
     let $data := manuscript:currentData()
     return
-        42
+        element img {
+            attribute src {
+                concat($data//canvas[1]/image/data(), "/full/full/0/default.jpg")
+            }
+        }
+};
+
+declare function manuscript:viewText($node as node(), $model as map(*)) {
+    let $data := manuscript:currentData()
+    return
+        element div {
+            attribute class { "card-block" },
+
+            for $layer in $config:manuscript-layers
+            return (
+                element h3 { $layer/@name/data() },
+                element div { $data/text/tei:body/tei:div[@type=$layer] }
+            )
+        }
 };

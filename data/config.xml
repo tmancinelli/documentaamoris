@@ -3,13 +3,13 @@
     <first-manuscript-id>1v-2r</first-manuscript-id>
     
     <layers>
-        <layer>Apparatus_destra</layer>
-        <layer>Apparatus_sinistra</layer>
-        <layer>Didascalia</layer>
-        <layer>Iconografia</layer>
-        <layer>Lirica</layer>
-        <layer>Rubrica</layer>
-        <layer>Translatio_destra</layer>
-        <layer>Translatio_sinistra</layer>
+        <layer name="Apparatus destro">Apparatus_destra</layer>
+        <layer name="Apparatus sinistro">Apparatus_sinistra</layer>
+        <layer name="Didascalia">Didascalia</layer>
+        <layer name="Iconografia">Iconografia</layer>
+        <layer name="Lirica">Lirica</layer>
+        <layer name="Rubrica">Rubrica</layer>
+        <layer name="Translatio destro">Translatio_destra</layer>
+        <layer name="Translation sinistro">Translatio_sinistra</layer>
     </layers>
 </config>
