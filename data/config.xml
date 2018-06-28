@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
-    <first-manuscript-id>1v-2r</first-manuscript-id>
+    <first-manuscript-id carta="Verso">VIIIv-1r</first-manuscript-id>
     
     <layers>
         <layer name="Apparatus destro">Apparatus_destra</layer>

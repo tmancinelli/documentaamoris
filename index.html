@@ -1,42 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="container">
-      <h2>Documenti d'amore</h2>
-       <br/>
-      <div class="container">
+    <h2>Documenti d'amore</h2>
+    <br/>
+    <div class="container">
         <!-- Example row of columns -->
         <div class="row">
-          <div class="col-md-6">
-            <h2>Facsimile</h2>
-            <div class="card">
-                <div data-template="manuscript:viewImage"/>
+            <div class="col-md-6">
+                <h2>Facsimile</h2>
+                <div class="card">
+                    <div data-template="manuscript:viewImage"/>
+                </div>
             </div>
-            <p/>
-          </div>
-          <div class="col-md-6">
-          <h2>Testo</h2>
-          <div class="card">
-            <div data-template="manuscript:viewText"/>
+            <div class="col-md-6">
+                <h2>Testo</h2>
+                <div class="card">
+                    <div data-template="manuscript:viewText"/>
+                </div>
             </div>
-          </div>
         </div>
         <div class="card-block">
-        <ul class="pagination">
-          <li class="page-item">
-                    <a class="page-link" href="#">Previous</a>
-                </li>
-          <li class="page-item">
-                    <a class="page-link" href="#">1</a>
-                </li>
-          <li class="page-item">
-                    <a class="page-link" href="#">2</a>
-                </li>
-          <li class="page-item">
-                    <a class="page-link" href="#">3</a>
-                </li>
-          <li class="page-item">
-                    <a class="page-link" href="#">Next</a>
-                </li>
-        </ul>
+            <div data-template="manuscript:viewPages"/>
         </div>
-      </div> <!-- /container -->
+    </div>
 </div>
